@@ -17,8 +17,22 @@ h1 {
 
 }
 
+/*reset button*/
+nav {
+    background-color: gray; /* gray */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
 /* For the background */
 body {
         background-image: url("../images/working_imagefile.png");
+        background-size: 180%;
     
 }
